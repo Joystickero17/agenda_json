@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Augusto Carrillo",
+        "Age": 55,
+        "Genre": "F",
+        "Phone_number": "5555565",
+        "hash": "743ed1b6c4012dbd8074b986c6e2a7988508900b95a5cd8151ac5eb1242ae417"
+    },
+    {
+        "Name": "Augusto Carrillo",
+        "Age": 39,
+        "Genre": "M",
+        "Phone_number": "5555565",
+        "hash": "825f624b529cf215b8458ae7d0a9f5a3f3c785d16938f0bc32a79d0ab4403af9"
+    }
+]
